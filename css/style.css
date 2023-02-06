@@ -1,0 +1,20 @@
+body {
+    background-color: darkseagreen;
+}
+
+h1 {
+    color: blue;
+    transition : color .5s ease-in-out;
+}
+
+.active {
+    color : tomato;
+}
+
+.sexy-font {
+
+}
+
+.hidden {
+    display: none;
+}
